@@ -21,6 +21,6 @@ Ultrasonic waves are very high frequency waves of the order of greater than 2000
 
 ### So what next
 
-I did this project 5 years ago, since then I have seen many people implement projects in a similar way so I donot have plans of improving it since many people have implemented my idea. So the plan for open sourcing my idea and plans is to give new people a headstart. One should be able to find the code, 3d models and eagle cad files made by me in this repository. Which is more of self explanatory type.
+I did this project 5 years ago, since then I have seen many people implement projects in a similar way so I donot have plans of improving any time soon. So the plan for open sourcing my idea and plans is to give beginners a headstart. One should be able to find the code, 3d models and eagle cad files made by me in this repository. Which is more of self explanatory type.
 
 Enjoy :) But do let me know if you improve this idea further.
